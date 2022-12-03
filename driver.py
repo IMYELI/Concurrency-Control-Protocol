@@ -7,7 +7,7 @@ print("2. OCC")
 print("3. MVCC")
 protocol = int(input("Choose the protocol(1-3): ").strip())
 
-trans = Transaction_Manager( "test5.txt")
+trans = Transaction_Manager( "test/test5.txt")
 
 if(protocol == 1):
     simpleLocking(trans)
