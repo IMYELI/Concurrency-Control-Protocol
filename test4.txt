@@ -1,0 +1,3 @@
+A B
+R-B R-A W-A
+R-B R-A W-B W-A

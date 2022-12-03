@@ -1,0 +1,6 @@
+W X Y Z
+R-Y R-X
+R-Y R-Z
+W-Y W-Z W-W
+W-W
+R-X R-Z W-Y W-Z

@@ -1,0 +1,3 @@
+E F G
+R-E R-F R-G W-F W-G
+R-G R-F R-E W-E
